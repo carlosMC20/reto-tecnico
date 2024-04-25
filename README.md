@@ -20,10 +20,3 @@ Para ejecutar el proyecto de manera local, se debe seguir los siguientes pasos:.
 3. Ejecutar el comando npm run start o npm start
 4. Finalmente, abrir en el navegador https://localhost:3000
 
-
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
