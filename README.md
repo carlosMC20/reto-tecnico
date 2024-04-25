@@ -13,7 +13,7 @@ Este proyecto está desplegado en el siguiente link: [https://reto-rimac-fronten
 
 ## Ejecutar proyecto
 
-Para ejecutar el proyecto de manera local, se debe seguir los siguientes pasos:.\
+Para ejecutar el proyecto de manera local, se debe seguir los siguientes pasos:
 
 1. Clonar el repositorio
 2. Ejecutar el comando npm install o npm i
